@@ -1,6 +1,6 @@
 # CURSO de **GIT**
 
-![Delta Okavango](img/Delta-Okavango.jpg/400/300)
+![Delta Okavango](/img/Delta-Okavango.jpg/400/300 "Delta del Okavango")
 
 <image src="/img/Delta-Okavango.jpg" alt="Descripción de la imagen" caption="Delta del Okavango">
 
