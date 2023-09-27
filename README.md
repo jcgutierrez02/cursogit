@@ -2,6 +2,8 @@
 
 ![Delta Okavango](img/Delta-Okavango.jpg/400/300)
 
+<image src="/img/Delta-Okavango.jpg" alt="Descripción de la imagen">
+
 
 [Manual MarkDown](https://experienceleague.adobe.com/docs/contributor/contributor-guide/writing-essentials/markdown.html?lang=es)
 
