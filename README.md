@@ -1,8 +1,6 @@
 # CURSO de **GIT**
 
-![Delta Okavango](https://jcgutierrez02.github.io/img/Delta-Okavango.jpg/400/300)
-
-<image src="https://jcgutierrez02.github.io/img/Delta-Okavango.jpg/400/300" alt="Delta del Okavango">
+![Delta Okavango](/img/Delta-Okavango.jpg/400/300)
 
 
 [Manual MarkDown](https://experienceleague.adobe.com/docs/contributor/contributor-guide/writing-essentials/markdown.html?lang=es)
