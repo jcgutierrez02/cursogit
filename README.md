@@ -1,6 +1,6 @@
 # CURSO de **GIT**
 
-![Delta Okavango](/img/Delta-Okavango.jpg/400/300)
+![Delta Okavango](cursogit/img/Delta-Okavango.jpg/400/300)
 
 
 [Manual MarkDown](https://experienceleague.adobe.com/docs/contributor/contributor-guide/writing-essentials/markdown.html?lang=es)
