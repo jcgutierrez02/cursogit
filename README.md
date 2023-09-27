@@ -2,7 +2,7 @@
 
 ![Delta Okavango](img/Delta-Okavango.jpg/400/300)
 
-<image src="/img/Delta-Okavango.jpg" alt="Descripción de la imagen">
+<image src="/img/Delta-Okavango.jpg" alt="Descripción de la imagen" caption="Delta del Okavango">
 
 
 [Manual MarkDown](https://experienceleague.adobe.com/docs/contributor/contributor-guide/writing-essentials/markdown.html?lang=es)
